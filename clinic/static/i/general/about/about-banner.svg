@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 538 360" style="enable-background:new 0 0 538 360;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6BBDDC;}
+	.st1{fill:none;stroke:#3055A1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#254096;}
+</style>
+<image style="overflow:visible;enable-background:new    ;" width="538" height="360" id="image0" xlink:href="7BD87F9BE8A8329E.png"  transform="matrix(1 0 0 1 0 -1.464844e-05)">
+</image>
+<circle class="st0" cx="253.8" cy="215.8" r="34.5"/>
+<g>
+	<g>
+		<g>
+			<line class="st1" x1="411.6" y1="270.8" x2="411.6" y2="325.9"/>
+			<path class="st1" d="M369.7,111.3h30.8c6.1,0,11.1,5,11.1,11.2V133"/>
+			<line class="st1" x1="276" y1="111.3" x2="321.1" y2="111.3"/>
+			<path class="st1" d="M86.2,327.6V122.5c0-6.2,5-11.2,11.1-11.2h153.5"/>
+			<polyline class="st1" points="233.5,143 117.7,143 117.7,298 380.1,298 380.1,270.8 			"/>
+			<path class="st1" d="M37.7,329c0,0,0,31,25.3,31h134.4h103h134.4c25.3,0,25.3-31,25.3-31H37.7z"/>
+		</g>
+	</g>
+	<g>
+		<path class="st1" d="M322.1,91.3v113.3c0,23.1,18.6,41.8,41.6,41.8h6.9c23,0,41.6-18.7,41.6-41.8v-44.8"/>
+		<path class="st1" d="M322.1,92.9V82.1c0-17.2-14.1-31.1-31.2-31.1h-5.1c-17.1,0-30.9,13.9-30.9,31.1v96.3"/>
+		<path class="st1" d="M219.4,216.2c0,19.2,15.5,34.8,34.6,34.8c19.1,0,34.6-15.6,34.6-34.8c0-19.2-15.5-34.8-34.6-34.8
+			C234.9,181.3,219.4,196.9,219.4,216.2z"/>
+		<g>
+			<path class="st1" d="M446.7,2.8c14.8,0,26.9,12.1,26.9,27v48.7"/>
+			<g>
+				<path class="st1" d="M375.8,3.2c-14.8,0-26.9,12.1-26.9,27v48.7"/>
+			</g>
+			<path class="st1" d="M348.9,78.4v31c0,26.9,21.7,48.7,48.5,48.7h27.7c26.8,0,48.5-21.8,48.5-48.7v-31"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line class="st1" x1="412.1" y1="22.3" x2="412.1" y2="81.1"/>
+	<line class="st1" x1="441.4" y1="51.7" x2="382.9" y2="51.7"/>
+</g>
+<circle class="st2" cx="254" cy="216.2" r="7.2"/>
+</svg>

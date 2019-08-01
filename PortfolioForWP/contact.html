@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<head>
+
+	<meta charset="utf-8">
+
+	<title>Портфолио - Контакты</title>
+	<meta name="description" content="">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<meta property="og:image" content="path/to/image.html">
+	<link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-touch-icon-114x114.png">
+
+	<!-- Chrome, Firefox OS and Opera -->
+	<meta name="theme-color" content="#000">
+	<!-- Windows Phone -->
+	<meta name="msapplication-navbutton-color" content="#000">
+	<!-- iOS Safari -->
+	<meta name="apple-mobile-web-app-status-bar-style" content="#000">
+
+	<style>body { opacity: 0; overflow-x: hidden; } </style>
+	<link rel="stylesheet" href="css/main.min.css">
+
+</head>
+
+<body class="contact">
+
+	<!-- прелоадер -->
+	<div class="loader">
+		<div class="loader_inner"></div>
+	</div>
+
+	<!-- меню -->
+	<aside class="side">
+
+		<!-- гамбургер -->
+		<div class="hamburger" id="hamburger" title="Меню">
+			<span class="line"></span>
+			<span class="line"></span>
+			<span class="line"></span>
+		</div>
+
+		<!-- контент меню -->
+		<div class="side-menu">
+			
+			<!-- профиль -->
+			<div class="user">
+				<div class="user__img"><img src="img/photo.jpg" alt="Евлоев Гапур"></div>
+				<h2 class="user__name"><a href="https://vk.com/" target="_blank">Евлоев Гапур</a></h2>
+				<h4 class="user__post">Верстальщик, Front-end разработчик</h4>
+			</div>
+
+			<!-- меню -->
+			<nav>
+				<ul class="menu">
+					<li class="menu__item" title="Обо мне"><a href="about.html"><i class="pe-7s-user"></i>Обо мне</a></li>
+					<li class="menu__item" title="Портфолио"><a href="index.html"><i class="pe-7s-portfolio"></i>Портфолио</a></li>
+					<li class="menu__item" title="Контакты"><a href="contact.html"><i class="pe-7s-compass"></i>Контакты</a></li>
+				</ul>
+			</nav>
+
+		</div>
+
+	</aside>
+
+	<div class="content">
+		<h2 class="contact__head">Обратная связь</h2>
+		<h3 class="contact__desc">Свяжитесь со мной одним из следующих способов</h3>
+
+
+			<div class="row">
+				<div class="col-md-6 col-sm-5">
+					<ul class="contact--left">
+						<li class="contact__item"><i class="pe-7s-browser"></i>Мой сайт: <a href="../index.html" target="_blank">gapurevloev.github.io</a></li>
+						<li class="contact__item"><i class="pe-7s-map-2"></i>Адрес: <a href="#">Москва, Россия</a></li>
+						<li class="contact__item"><i class="pe-7s-phone"></i>Телефон <a href="tel: +79674624649">+79674624649</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-6 col-sm-7">
+					<div class="contact-form" id="callback">
+						<h3 class="contact-form__head">Оставить заявку</h3>
+						<label>
+							<span>Ваше имя: </span>
+							<input type="text" name="name" class="contact-form__input" required>
+						</label>
+
+						<label>
+							<span>Ваше E-mail: </span>
+							<input type="email" name="email" class="contact-form__input" required>
+						</label>
+
+						<label>
+							<span>Комментарий к запросу: </span>
+							<textarea name="message" class="contact-form__input contact-form__textarea"></textarea>
+						</label>
+
+						<button type="submit" class="contact-form__submit">Отправить заявку</button>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+
+		
+		
+
+	<script src="js/scripts.min.js"></script>
+
+</body>
+
+</html>
