@@ -6952,7 +6952,7 @@ a:focus {
     float: left;
 }
 .about .about__image {
-    background-position: top center;
+    background-position: 60% center;
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #333;
