@@ -1,9 +1,1 @@
-<svg
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.45 376.75">
-    <title>line</title>
-    <g id="Слой_2" data-name="Слой 2">
-        <g id="Слой_1-2" data-name="Слой 1">
-            <path d="M61.23.4C-18.08,61.61-23,125.78,66.06,190.47c82.29,52,78.14,114.17,5.79,185.93" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.45 376.75"><g data-name="Слой 2"><path d="M61.23.4C-18.08 61.61-23 125.78 66.06 190.47c82.29 52 78.14 114.17 5.79 185.93" fill="none" stroke="#fff" stroke-miterlimit="10" data-name="Слой 1"/></g></svg>
