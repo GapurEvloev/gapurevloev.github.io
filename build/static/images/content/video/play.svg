@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195.44 195.44"><defs><clipPath id="a"><path d="M3 97.72A94.72 94.72 0 1 0 97.72 3 94.72 94.72 0 0 0 3 97.72" fill="none"/></clipPath><clipPath id="b"><path fill="none" d="M0 0h195.44v195.44H0z"/></clipPath></defs><g clip-path="url(#a)"><path fill="#fff" d="M75.46 142.25l60.53-44.53-60.53-44.53v89.06z"/></g><g clip-path="url(#b)"><circle cx="97.72" cy="97.72" r="94.72" fill="none" stroke="#fff" stroke-width="6"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 195.44 195.44">
+  <defs>
+    <clipPath id="a">
+      <path d="M3,97.72A94.72,94.72,0,1,0,97.72,3,94.72,94.72,0,0,0,3,97.72" style="fill: none"/>
+    </clipPath>
+    <clipPath id="b">
+      <rect width="195.44" height="195.44" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>play</title>
+  <g>
+    <g style="clip-path: url(#a)">
+      <polygon points="75.46 142.25 135.99 97.72 75.46 53.19 75.46 142.25" style="fill: #fff"/>
+    </g>
+    <g style="clip-path: url(#b)">
+      <circle cx="97.72" cy="97.72" r="94.72" style="fill: none;stroke: #fff;stroke-width: 6px"/>
+    </g>
+  </g>
+</svg>
