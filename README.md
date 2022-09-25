@@ -43,12 +43,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="WebStorm" width="25" height="25" />
 </p>
 
-
-<details >
-  <summary>⚙️ &nbsp; Statistics:</summary>
-  </br>
-  <div display='flex'>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GapurEvloev&include_all_commits=true&hide=issues&show_icons=true"/>
-  </div>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GapurEvloev&langs_count=8&layout=compact"/>
-</details>
+## 📈 Statistics
+<div display='flex'>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GapurEvloev&include_all_commits=true&hide=issues&show_icons=true"/>
+</div>
+</br>
+</hr>
+</br>
+<div display='flex'>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GapurEvloev&langs_count=8&layout=compact"/>
+</div>
