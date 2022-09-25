@@ -48,7 +48,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GapurEvloev&include_all_commits=true&hide=issues&show_icons=true"/>
 </div>
 </br>
-</hr>
+* * *
 </br>
 <div display='flex'>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GapurEvloev&langs_count=8&layout=compact"/>
