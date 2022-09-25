@@ -4,8 +4,8 @@
 
 </div>
 
-## Contact
+## Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gapur/)
-[![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gapur)
-[![Mail](https://img.shields.io/badge/-Mail-0077B5?style=for-the-badge&logo=Mail&logoColor=white)](mailto:kaloycant@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-gapur-0b66c2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gapur/){:target="_blank"}](https://www.linkedin.com/in/gapur/)
+[![Telegram](https://img.shields.io/badge/-gapur-2aa8ea?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/gapur){:target="_blank"}](https://t.me/gapur)
+[![Mail](https://img.shields.io/badge/-@Mail-c2e7ff?style=for-the-badge&logo=Mail&logoColor=white&link=mailto:kaloycant@gmail.com){:target="_blank"}](mailto:kaloycant@gmail.com)
