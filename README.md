@@ -5,7 +5,7 @@
 </div>
 
 # Hi! I'm Gapur 👋
-<p align="left">I'm frontend developer who likes work with JS, TS, React and Next. I also like mentoring people who want to become developers. I've been living in Munich recently and I love it here.</p>
+<p align="left">I'm frontend developer who likes to work with JS, TS, React and Next. I also like mentoring people who want to become developers. I've been living in Munich recently and I love it here.</p>
 
 ## 🤙 My сontacts
 [![LinkedIn](https://img.shields.io/badge/-gapur-0b66c2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gapur/)](https://www.linkedin.com/in/gapur/)
