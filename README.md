@@ -4,13 +4,23 @@
 
 </div>
 
-# Hi I'm Gapur 👋
+# Hi! I'm Gapur 👋
+<p align="left">I'm frontend developer who likes work with JS, TS, React and Next. I also like mentoring people who want to become developers. I've been living in Munich recently and I love it here.</p>
 
 ## 🤙 My сontacts
-
 [![LinkedIn](https://img.shields.io/badge/-gapur-0b66c2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gapur/)](https://www.linkedin.com/in/gapur/)
 [![Telegram](https://img.shields.io/badge/-gapur-2aa8ea?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/gapur)](https://t.me/gapur)
 [![Mail](https://img.shields.io/badge/-@Mail-c2e7ff?style=for-the-badge&logo=Mail&logoColor=white&link=mailto:kaloycant@gmail.com)](mailto:kaloycant@gmail.com)
+
+
+## 💻 Below you will find some of my projects
+- [Сode](https://github.com/GapurEvloev/react_pizza_v2) | [Demo](https://gapurevloev.github.io/react_pizza_v2/) React, TS, Redux - Pizza App
+
+- [Сode](https://github.com/GapurEvloev/swapi) | [Demo](https://gapurevloev.github.io/swapi/) React, Redux, StoryBook - Star Wars API App
+
+- [Сode](https://github.com/GapurEvloev/react_todo) | [Demo](https://gapurevloev.github.io/react_todo/) React, Redux - ToDo App
+
+- [Сode](https://github.com/GapurEvloev/react-sneakers) | [Demo](https://gapurevloev.github.io/react-sneakers/) React - Sneakers Store
 
 ## 🚀 Some tools I use
 
